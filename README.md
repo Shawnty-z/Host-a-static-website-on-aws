@@ -1,6 +1,3 @@
-
----
-
 # Host a Static Website on AWS
 
 This project demonstrates how to host a static HTML web app on AWS using a variety of AWS resources and DevOps practices. The website is deployed on EC2 instances within a Virtual Private Cloud (VPC) with enhanced security, scalability, and fault tolerance mechanisms.
@@ -23,6 +20,7 @@ This setup leverages the following AWS resources:
 13. **Certificate Manager:** Secures application communication using SSL/TLS certificates.
 14. **Simple Notification Service (SNS):** Sends alerts about activities in the Auto Scaling Group.
 15. **Route 53:** Used to register a domain and set up DNS records.
+![Alt text](/Host-a-static-website-on-aws.png)
 
 ## Prerequisites
 - AWS Account
