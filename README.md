@@ -84,7 +84,3 @@ systemctl start httpd
   
 ## Conclusion
 This project demonstrates how to host a static website on AWS using EC2 instances, load balancing, auto-scaling, and VPC configuration for security and scalability. The complete setup ensures high availability, fault tolerance, and secure communication for web traffic.
-
-For more details, visit the [GitHub Repository](https://github.com/Shawnty-z/Host-a-static-website-on-aws).
-
---- 
